@@ -1,7 +1,7 @@
 # skid-list
 The official skid list.
 
-* **"joeleoli"** - Uses leaked minehq libraries for his own shit and skidded bizarrealex and sucked his dick 
+* ~~**"joeleoli"** - Uses leaked minehq libraries for his own shit and skidded bizarrealex and sucked his dick~~ <3 alex
 * "NotAccursed" - Dishes out money for code and tries to re-sell it.
 * "Edin" or "breakcheaters" - Dishes out money for code and tries to re-sell it.
 * "DaddyDombo" - Buys code, renames it, and claims it as his own.

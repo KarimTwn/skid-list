@@ -1,5 +1,5 @@
 # skid-list
-The official skid list.
+The official skid list. The following users are the scum of this community and shouldn't be dealt with as they will most likely screw you over somehow.
 
 * ~~**"joeleoli"** - Uses leaked minehq libraries for his own shit and skidded bizarrealex and sucked his dick~~ <3 alex
 * "NotAccursed" - Dishes out money for code and tries to re-sell it.

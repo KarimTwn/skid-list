@@ -7,3 +7,4 @@ The official skid list. The following users are the scum of this community and s
 * "DaddyDombo" - Buys code, renames it, and claims it as his own.
 * "funkemunky" - Shit anti-cheats built off one another.
 * "InspectMC" - Leaks plugins (https://i.gyazo.com/b21ddb1bf43f397b3879350c577adabd.png)
+* "Ambrosia" - Makes hub plugins for a living (LMFAO), has no idea what he's doing in an IDE, still using Eclipse in 2k18, and just talks shit about other people without having spoken to them before? Extremely toxic, DNDW.

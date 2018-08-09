@@ -8,4 +8,4 @@ The official skid list. The following users are the scum of this community and s
 * "funkemunky" - Shit anti-cheats built off one another.
 * "InspectMC" - Leaks plugins (https://i.gyazo.com/b21ddb1bf43f397b3879350c577adabd.png)
 * "Ambrosia" - Makes hub plugins for a living (LMFAO), has no idea what he's doing in an IDE, still using Eclipse in 2k18, and just talks shit about other people without having spoken to them before? Extremely toxic, DNDW.
-* "BOMP" - Only has leaked MMC project files on his computer, works for free for dog shit servers, and is dog shit at programming LMFAO
+* "BOMP" - Only has leaked MMC project files on his computer, works for free, and is dog shit at programming. Also doesn't use object comparison checks properly, and stores player objects directly instead of UUIDs (more memory and probably doesn't remove the player objects at all [memory leak gang]) - https://i.gyazo.com/fd5e2a8aa9a186c46727cc3ed2935a7f.png

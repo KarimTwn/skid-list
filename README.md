@@ -3,4 +3,4 @@ The official skid list. The following users are the scum of this community and s
 
 * "Mython" - skided azazel and tried to say it was custom.
 * "Ring/GregoryDevelopment" - Sells broken code for money.
-* "InspectMCt" - Re sells the same code again and again.
+* "InspectMC" - Re sells the same code again and again.

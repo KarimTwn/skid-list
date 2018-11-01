@@ -10,3 +10,4 @@ The official skid list. The following users are the scum of this community and s
 * "xo Baby Clew" - Mentally Retarded Skid That Calls Funkys Anticheat Exile His Own Custom Anticheat Kermit And Sucks BruceBoys 1 Inch Cock.
 * "CzE" - Does not know datatypes thinks onNiggerJoin is a thing xdd.
 * "InsideIntel" - skid all that needs to be said.
+* "Driq" - skids etb with custom and thinks he is cool because he has faithful src.

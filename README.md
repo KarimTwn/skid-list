@@ -11,3 +11,4 @@ The official skid list. The following users are the scum of this community and s
 * "CzE" - Does not know datatypes thinks onNiggerJoin is a thing xdd.
 * "InsideIntel" - skid all that needs to be said.
 * "Driq" - skids etb with custom and thinks he is cool because he has faithful src.
+* "Zibb" - Mentally Retarded Skid. SKids dreya source and skids clients.

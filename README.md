@@ -10,7 +10,6 @@ The official skid list. The following users are the scum of this community and s
 * "CzE" - Does not know datatypes thinks onNiggerJoin is a thing xdd.
 * "InsideIntel" - skid all that needs to be said.
 * "Driq" - skids etb with custom and thinks he is cool because he has faithful src.
-* "Zibb" - Mentally Retarded Skid. SKids dreya source and skids clients.
 * "Millionth" - Can't compile a plugin,And skidded hcriots map4.
 * "HippedMC" - Can't make plugins decompiles and call's them custom remember's to leave all the final's.
 * "Customkkk/custom" - skid he gets doxed every day.

@@ -3,7 +3,7 @@ The official skid list. The following users are the scum of this community and s
 
 * "Ring/GregoryDevelopment" - Sells broken code for money.
 * "InspectMC" - Re sells the same code again and again.
-* "FigT" - Just can't code
+* "FigT" - Just can't code. (Maybe removed if he can learn to code better)
 * "BruceBoy/Bruce" - Does not know what a null pointer is. https://twitter.com/disclearing/status/1057302638289735680
 * "xo Baby Clew" - Mentally Retarded Skid That Calls Funkys Anticheat Exile His Own Custom Anticheat Kermit And Sucks BruceBoys 1 Inch Cock.
 * "CzE" - Does not know datatypes thinks onNiggerJoin is a thing xdd.

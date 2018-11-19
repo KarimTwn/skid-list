@@ -18,3 +18,4 @@ The official skid list. The following users are the scum of this community and s
 * "Dev group chat telegram" - You all know who tf you are you are all talk and can do nothing also ik drew is in it so stop scamming 14 year olds you scum and get a job.(UTF aint a skid but he is in it xd)
 * "Eman0039" - Fat skid and scammer he can suck my left nut.
 * "ItzAssassin"- (can he even code in java?. no i dont think so...).
+* "Kappios"- uses notifyz core and says he is coding it xdd fuck your self.
